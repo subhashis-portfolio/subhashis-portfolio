@@ -36,7 +36,7 @@
 
 ---
 
-<h2><font color="#166534">👋 ABOUT ME</font></h2>
+<h2><font color="#166534"> ABOUT ME</font></h2>
 
 I am a **Senior CAD & Design Professional and Academic Leader** with **16+ years of experience** in Graphic Design, CAD, 3D Visualization, Design Education and Academic Management.
 
@@ -52,19 +52,19 @@ My professional profile combines:
 
 </div>
 
-- 🎓 **MBA in Digital Marketing & Marketing — Chandigarh University**
-- 👨‍🏫 **Head of Computer Department**
-- 💼 **16+ Years Professional Experience**
-- 🎨 **Graphic & Visual Design Specialist**
-- 📐 **CAD & 3D Visualization Specialist**
+-  **MBA in Digital Marketing & Marketing — Chandigarh University**
+-  **Head of Computer Department**
+-  **16+ Years Professional Experience**
+-  **Graphic & Visual Design Specialist**
+-  **CAD & 3D Visualization Specialist**
 
 ---
 
-<h2><font color="#3730A3">🎨 CORE EXPERTISE</font></h2>
+<h2><font color="#3730A3"> CORE EXPERTISE</font></h2>
 
 <div align="center">
 
-| <font color="#166534">🎨 GRAPHIC DESIGN</font> | <font color="#3730A3">📐 CAD & 3D</font> | <font color="#B45309">👨‍🏫 ACADEMIC</font> |
+| <font color="#166534"> GRAPHIC DESIGN</font> | <font color="#3730A3"> CAD & 3D</font> | <font color="#B45309"> ACADEMIC</font> |
 | :---: | :---: | :---: |
 | Photoshop | AutoCAD 2D/3D | Faculty Management |
 | Illustrator | 3ds Max | Curriculum Planning |
@@ -76,31 +76,31 @@ My professional profile combines:
 
 ---
 
-<h2><font color="#166534">🛠️ TECHNICAL SKILLS</font></h2>
+<h2><font color="#166534"> TECHNICAL SKILLS</font></h2>
 
-### <font color="#3730A3">🎨 Graphic & Creative Design</font>
+### <font color="#3730A3"> Graphic & Creative Design</font>
 
 `Adobe Photoshop` · `Adobe Illustrator` · `CorelDRAW` · `Adobe InDesign` · `Canva`
 
-### <font color="#166534">📐 CAD & 3D Visualization</font>
+### <font color="#166534"> CAD & 3D Visualization</font>
 
 `AutoCAD 2D/3D` · `3ds Max` · `V-Ray` · `3D Interior Design` · `Architectural Visualization`
 
-### <font color="#B45309">🎬 Multimedia</font>
+### <font color="#B45309"> Multimedia</font>
 
 `Adobe Premiere Pro` · `Sound Forge Pro` · `Motion Graphics` · `Multimedia & Animation`
 
-### <font color="#3730A3">💻 Digital Design</font>
+### <font color="#3730A3"> Digital Design</font>
 
 `Digital Marketing Design` · `Social Media Creatives` · `AI-based Design Concepts` · `Digital Content Creation`
 
-### <font color="#166534">📊 Business & Office</font>
+### <font color="#166534"> Business & Office</font>
 
 `Microsoft Office` · `Business Communication` · `Digital Marketing` · `Project Management`
 
 ---
 
-<h2><font color="#3730A3">💼 PROFESSIONAL EXPERIENCE</font></h2>
+<h2><font color="#3730A3"> PROFESSIONAL EXPERIENCE</font></h2>
 
 ### <font color="#166534">HEAD OF COMPUTER DEPARTMENT — HOD</font>
 
@@ -159,7 +159,7 @@ Worked with clients / organizations including:
 
 ---
 
-<h2><font color="#166534">🎓 EDUCATION</font></h2>
+<h2><font color="#166534"> EDUCATION</font></h2>
 
 ### <font color="#3730A3">MBA — Digital Marketing & Marketing</font>
 
@@ -184,7 +184,7 @@ Worked with clients / organizations including:
 
 ---
 
-<h2><font color="#B45309">🏆 ACHIEVEMENTS</font></h2>
+<h2><font color="#B45309"> ACHIEVEMENTS</font></h2>
 
 - 🏅 **Faculty Mentor — INIFD Kolkata, New York Fashion Week 2018**
 - 🏆 **3rd Place — DRISHTI Digital Art Exhibition**
@@ -196,7 +196,7 @@ Worked with clients / organizations including:
 
 ---
 
-<h2><font color="#3730A3">📜 CERTIFICATIONS</font></h2>
+<h2><font color="#3730A3"> CERTIFICATIONS</font></h2>
 
 - **Harvard Manage Mentor Online Certification** — Chandigarh University
 - **Advanced Diploma in Multimedia** — Arena Multimedia
@@ -206,7 +206,7 @@ Worked with clients / organizations including:
 
 ---
 
-<h2><font color="#166534">🎯 PROFESSIONAL INTERESTS</font></h2>
+<h2><font color="#166534"> PROFESSIONAL INTERESTS</font></h2>
 
 I am interested in opportunities related to:
 
