@@ -147,18 +147,6 @@ Worked with clients / organizations including:
 
 ---
 
-### <font color="#3730A3">COMPUTER / CAD FACULTY — PART-TIME</font>
-
-**Glamour Institute of Fashion, Kolkata**  
-<font color="#666666">July 2024 – Present</font>
-
-- CAD and design software training
-- Fashion & Interior Design practical sessions
-- Software-based project guidance
-- Advertisement and promotional design support
-
----
-
 <h2><font color="#166534"> EDUCATION</font></h2>
 
 ### <font color="#3730A3">MBA — Digital Marketing & Marketing</font>
@@ -186,13 +174,13 @@ Worked with clients / organizations including:
 
 <h2><font color="#B45309"> ACHIEVEMENTS</font></h2>
 
-- 🏅 **Faculty Mentor — INIFD Kolkata, New York Fashion Week 2018**
-- 🏆 **3rd Place — DRISHTI Digital Art Exhibition**
-- 🚀 **Promoted to Head of Department within 6 years**
-- 👨‍🎓 **Managed 150+ students annually**
-- 👥 **Led and coordinated faculty teams**
-- 🎨 **Diploma in Art — 5th Year**
-- 🎸 **Diploma in Guitar — 5th Year**
+-  **Faculty Mentor — INIFD Kolkata, New York Fashion Week 2018**
+-  **3rd Place — DRISHTI Digital Art Exhibition**
+-  **Promoted to Head of Department within 6 years**
+-  **Managed 150+ students annually**
+-  **Led and coordinated faculty teams**
+-  **Diploma in Art — 5th Year**
+-  **Diploma in Guitar — 5th Year**
 
 ---
 
